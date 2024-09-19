@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865118613327",
+    "project_id": "chatappflutter-e33ba",
+    "storage_bucket": "chatappflutter-e33ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865118613327:android:61c52a42c20de312019f3a",
+        "android_client_info": {
+          "package_name": "com.example.book_team"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXfXAHJbK2dpNHdPN44saqPrg0XOJcST0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
